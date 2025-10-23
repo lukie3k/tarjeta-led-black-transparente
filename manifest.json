@@ -8,6 +8,9 @@
   "country": "es",
   "render_readme": true,
   "description": "Tarjeta LED estilo card-mod 3 basada en Mushroom Light Card. Diseñada por Jorge.",
+  "display_name": "Tarjeta LED Negra transparente",
+  "documentation_url": "https://github.com/lukie3k/tarjeta-led-black-transparente",
+  "render_readme": true,
   "authors": ["Lukie3k"],
   "keywords": ["light", "mushroom", "card-mod", "led"],
   "resources": [
