@@ -1,5 +1,5 @@
 # 💡 Tarjeta LED
-**Autor:** Jorge
+**Autor:** lukie3k
 
 Tarjeta personalizada basada en *Mushroom Light Card*, con estilo **card-mod 3**:
 - Fondo transparente  
