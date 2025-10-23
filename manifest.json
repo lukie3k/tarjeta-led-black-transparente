@@ -1,0 +1,26 @@
+{
+  "name": "Tarjeta LED Negra transparente",
+  "filename": "tarjeta-led.js",
+  "homeassistant": "2023.4.0",
+  "domain": "lovelace",
+  "content_in_root": false,
+  "type": "module",
+  "hide_default": false,
+  "country": "es",
+  "render_readme": true,
+  "description": "Tarjeta LED estilo card-mod 3 basada en Mushroom Light Card. Diseñada por Jorge.",
+  "authors": ["Jorge"],
+  "keywords": ["light", "mushroom", "card-mod", "led"],
+  "resources": [
+    {
+      "type": "module",
+      "url": "/hacsfiles/tarjeta-led/tarjeta-led.js"
+    }
+  ],
+  "preview": "tarjeta-led.png",
+  "version": "1.0.0",
+  "hacs": {
+    "categories": ["lovelace"],
+    "domain": "tarjeta-led-black-transparente"
+  }
+}

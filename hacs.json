@@ -1,0 +1,8 @@
+{
+    "name": "Tarjeta LED",
+    "render_readme": true,
+    "filename": "tarjeta-led.js",
+    "content_in_root": false,
+    "homeassistant": "2023.4.0"
+  }
+  
