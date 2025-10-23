@@ -1,8 +1,9 @@
 {
-    "name": "Tarjeta LED",
-    "render_readme": true,
-    "filename": "tarjeta-led.js",
-    "content_in_root": false,
-    "homeassistant": "2023.4.0"
-  }
-  
+  "name": "Tarjeta LED Negra transparente",
+  "render_readme": true,
+  "filename": "tarjeta-led.js",
+  "homeassistant": "2023.4.0",
+  "content_in_root": false,
+  "country": "es",
+  "domains": ["lovelace"]
+}
